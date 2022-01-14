@@ -4,7 +4,7 @@ loadAPI(15);
 // This is useful during development.
 host.setShouldFailOnDeprecatedUse(true);
 
-host.defineController("Roland", "A300 Pro", "0.1", "08b8ef3d-73f7-4667-8e79-21f1314a2fe5", "Ega420");
+host.defineController("Roland", "A300 Pro", "0.2", "08b8ef3d-73f7-4667-8e79-21f1314a2fe5", "Ega420");
 
 host.defineMidiPorts(2, 1);
 

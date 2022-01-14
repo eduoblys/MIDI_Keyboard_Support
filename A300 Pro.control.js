@@ -67,7 +67,7 @@ function onSysex0(data) {
 }
 // Called when a short MIDI message is received on MIDI input port 1.
 function onMidi1(status, data1, data2) {
-   // TODO: Implement your MIDI input handling code here.
+   // TODO: Implement your MIDI input handling code here.d
    printMidi(status, data1, data2);
 
 }
